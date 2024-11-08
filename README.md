@@ -1,12 +1,15 @@
-<h1 align="center">
-  ![sample1](asset/New Project.png)
-</h1>
+# Generative Image by DyahAI
 
-![sample1](asset/New Project.png)
 <p align="center">
-DyahAI is an AI platform that lets users transform ordinary images into unique works of art with customizable styles. Powered by Web3 technology and smart contracts. DyahAI offers a secure, decentralized, and high-quality experience, producing high-resolution images suitable for various needs.
+  <img src="asset/name.png" width="50%">
+</p>
 
-![sample1](asset/grid.png)
+<p align="justify">
+DyahAI is an AI platform that lets users transform ordinary images into unique works of art with customizable styles. Powered by Web3 technology and smart contracts. DyahAI offers a secure, decentralized, and high-quality experience, producing high-resolution images suitable for various needs.
+</p>
+
+<img src="asset/grid.png" />
+
 
 ## 📝 Table of Contents
 
