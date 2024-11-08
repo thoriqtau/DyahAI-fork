@@ -1,7 +1,7 @@
 # Generative Image by DyahAI
 
 <p align="center">
-  <img src="asset/name.png" width="50%">
+  <img src="https://tabella.my.id/static/assets/name.webp" width="50%">
 </p>
 
 <p align="justify">
