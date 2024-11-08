@@ -68,8 +68,6 @@ dfx deploy --network ic
 ```
 
 ### Contributors ❤
-
- <a href = "https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors">
- </a>
-
-[<img src="https://github.com/{.png" width="60px;"/><br/><sub><ahref="https://github.com/{{ contributor }}">{{ contributor }}</a></sub>](https://github.com/{{ contributor }}/{{ repository }})
+<a href="https://github.com/WAW1311/DyahAI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=WAW1311/DyahAI" />
+</a>
