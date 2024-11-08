@@ -72,4 +72,4 @@ dfx deploy --network ic
  <a href = "https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors">
  </a>
 
-[<img src="https://github.com/{.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ contributor }}">{{ contributor }}</a></sub>](https://github.com/{{ contributor }}/{{ repository }}
+[<img src="https://github.com/{.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ contributor }}">{{ contributor }}</a></sub>](https://github.com/{{ contributor }}/{{ repository }})
