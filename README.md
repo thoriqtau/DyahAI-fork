@@ -19,9 +19,9 @@ DyahAI is an AI platform that lets users transform ordinary images into unique w
   - [Usage](#usage)
 - [Contributors](#contribution)
 
-## 🔗 Get Started
+## Get Started 🔗 
 
-### :hammer: Installation
+### Installation :hammer: 
 
 Open PowerShell or Windows Command Prompt in administrator mode by right-clicking and selecting "Run as administrator",</br>
 enter the wsl --install command, then restart your machine. </br>
@@ -55,7 +55,7 @@ Install all required module.
 npm i
 ```
 
-### 💡 Usage
+### Usage 💡 
 
 Open WSL Ubuntu, start your dfx.
 
