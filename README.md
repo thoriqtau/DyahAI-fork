@@ -8,10 +8,10 @@
 DyahAI is an AI platform that lets users transform ordinary images into unique works of art with customizable styles. Powered by Web3 technology and smart contracts. DyahAI offers a secure, decentralized, and high-quality experience, producing high-resolution images suitable for various needs.
 </p>
 
-<img src="asset/grid.png" />
+<img src="https://tabella.my.id/static/assets/grid.webp" />
 
 # Frontend DyahAI
-<img src="asset/home.png" />
+<img src="https://tabella.my.id/static/assets/home.webp" />
 <img src="https://tabella.my.id/static/assets/generate.gif" />
 
 ## 📝 Table of Contents
