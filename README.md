@@ -12,7 +12,7 @@ DyahAI is an AI platform that lets users transform ordinary images into unique w
 
 # Frontend DyahAI
 <img src="https://tabella.my.id/static/assets/home.webp" />
-<img src="https://tabella.my.id/static/assets/gif.gif" />
+<video src="https://tabella.my.id/static/assets/gif.webm"></video>
 
 ## 📝 Table of Contents
 
