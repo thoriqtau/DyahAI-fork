@@ -10,6 +10,7 @@ DyahAI is an AI platform that lets users transform ordinary images into unique w
 
 <img src="asset/grid.png" />
 
+<img src="asset/generate.gif" />
 
 ## 📝 Table of Contents
 
