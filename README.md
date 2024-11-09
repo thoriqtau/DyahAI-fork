@@ -85,4 +85,7 @@ dfx deploy --network ic
 <a href="https://github.com/WAW1311"><img src="https://avatars.githubusercontent.com/u/115858209?v=4" title="wahyu" width="80" height="80"></a>
 <a href="https://github.com/yubayu0"><img src="https://avatars.githubusercontent.com/u/111375965?v=4" title="bayu" width="80" height="80"></a>
 
+<h3 id="contribution"> License </h3>
+<p>MIT </p>
+
 
