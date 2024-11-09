@@ -14,7 +14,7 @@ DyahAI is an AI platform that lets users transform ordinary images into unique w
 <img src="https://tabella.my.id/static/assets/home.webp" />
 
 <p align="center">
-  <img src="https://tabella.my.id/static/assets/generate.gif" />
+  <img src="https://tabella.my.id/static/assets/generates.gif" />
 </p>
 
 ## 📝 Table of Contents
