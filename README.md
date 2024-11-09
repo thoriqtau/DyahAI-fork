@@ -78,6 +78,10 @@ if you want to deploy in production :
 dfx deploy --network ic
 ```
 <h3 id="contribution"> Contributors ❤</h3>
-<a href="https://github.com/WAW1311/DyahAI/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=WAW1311/DyahAI" />
-</a>
+<a href="https://github.com/iAnoeloeby"><img src="https://avatars.githubusercontent.com/u/55847059?v=4" title="ngryman" width="80" height="80"></a>
+<a href="https://github.com/thoriqtau"><img src="https://avatars.githubusercontent.com/u/90580726?v=4" title="ngryman" width="80" height="80"></a>
+<a href="https://github.com/lutfimizaki"><img src="https://avatars.githubusercontent.com/u/90580726?v=4" title="ngryman" width="80" height="80"></a>
+<a href="https://github.com/WAW1311"><img src="https://avatars.githubusercontent.com/u/140836746?v=4" title="ngryman" width="80" height="80"></a>
+<a href="https://github.com/yubayu0"><img src="https://avatars.githubusercontent.com/u/111375965?v=4" title="ngryman" width="80" height="80"></a>
+
+
