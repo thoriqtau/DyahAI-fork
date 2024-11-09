@@ -21,6 +21,7 @@ DyahAI is an AI platform that lets users transform ordinary images into unique w
   - [Installation](#installation)
   - [Usage](#usage)
 - [Contributors](#contribution)
+- [License](#license)
 
 <h2 id="get-started"> 🔗 Get Started</h2>
 
@@ -83,7 +84,7 @@ dfx deploy --network ic
 <a href="https://github.com/WAW1311"><img src="https://avatars.githubusercontent.com/u/115858209?v=4" title="wahyu" width="80" height="80"></a>
 <a href="https://github.com/yubayu0"><img src="https://avatars.githubusercontent.com/u/111375965?v=4" title="bayu" width="80" height="80"></a>
 
-<h3 id="contribution"> License </h3>
-<p>MIT [DyahAI](https://tabella.my.id/static/assets/LICENSE.txt)</p>
+<h3 id="license"> License </h3>
+MIT © <a href="https://tabella.my.id/static/assets/LICENSE.txt">DyahAI</a>
 
 
